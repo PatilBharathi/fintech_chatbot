@@ -9,6 +9,8 @@ Deployment is handled via Google Cloud Run for a seamless serverless experience.
 Medium Blog - https://medium.com/@bharathi72826/building-a-fintech-chatbot-using-generative-ai-with-vertex-ai-83e8c2e2d13a 
 
 ===================================================================================================================================
+
+
 Building a Fintech Chatbot Using Generative AI with Vertex AI
 
 
